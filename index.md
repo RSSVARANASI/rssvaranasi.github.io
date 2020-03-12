@@ -11,7 +11,7 @@
 	           3)Reinforcement learning
 	           
 	           APPLICATIONS OF MACHINE LEARNING:
-	           There are various applications of machine learning and artificial intelligence in wide variety of feilds.Some of them                      are:
+	           There are various applications of machine learning and artificial intelligence in wide variety of feilds.Some of them                       are:
 	           
 	           1)AGRICULTURE:
 	           In agriculture machine learning is used in order to perform Precision agriculture (PA), satellite farming or
